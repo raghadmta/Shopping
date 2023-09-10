@@ -11,22 +11,22 @@
 
 ## الخطوات
 أولًا: تعرف مجموعة List من نوع ProductModel داخل الدالة Index.  
-![image](https://github.com/raghadmta/Shopping/assets/55548241/16305ddd-c1c4-4644-bc4d-6109d8df7b88)
-  
+  ![Screenshot 2023-09-10 132429](https://github.com/raghadmta/Shopping/assets/55548241/bb748cbd-0a60-416f-abb9-27332881b0e3)
+
 ثانيًا: يتم تمرير المجموعة إلى View باستخدام loop لعرض كل عنصر.  
-![image](https://github.com/raghadmta/Shopping/assets/55548241/5702405c-2d70-4134-a849-5c73bfb6e9ce)
+![Screenshot 2023-09-10 132536](https://github.com/raghadmta/Shopping/assets/55548241/4fc368cd-ca57-4372-a485-0289ba85547e)
 
 ثالثًا: تعرف منتج جديد في الدالة Details وتمرير القيم إلى DetailsView.  
-![image](https://github.com/raghadmta/Shopping/assets/55548241/d4d9fd37-9ed1-4ac1-9946-ead978eb6e72)  
+![Screenshot 2023-09-10 132658](https://github.com/raghadmta/Shopping/assets/55548241/0b5145b2-c1d0-4ba6-a922-d0e6d92a4411)
 
 
 ## تحدي:  
 
 رابعًا: تمرير id في المسار path مثال: {id}/{Action}/Controller/ للدالة Details.  
-![image](https://github.com/raghadmta/Shopping/assets/55548241/e981509c-e98b-4904-940c-ff1d6242c6bc)
+![Screenshot 2023-09-10 132803](https://github.com/raghadmta/Shopping/assets/55548241/a5a5cc65-e9f1-4267-9682-36b508ff257a)
 
 خامسًا: إظهار العنصر الذي يحتوي على نفس Id وتمرير القيم إلى View.  
-![image](https://github.com/raghadmta/Shopping/assets/55548241/13029715-aeaf-40a3-be46-a1927b7a4bc7)
+![Screenshot 2023-09-10 132906](https://github.com/raghadmta/Shopping/assets/55548241/b5473ad8-6f31-484a-b15b-41c7b4db35c2)
 
 
 
